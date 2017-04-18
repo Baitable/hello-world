@@ -1,0 +1,6 @@
+C:\Users\Baitable\Projects\hello-world\hello-world\obj\x64\Debug\hello-world.csprojResolveAssemblyReference.cache
+C:\Users\Baitable\Projects\hello-world\hello-world\bin\x64\Debug\hello-world.exe.config
+C:\Users\Baitable\Projects\hello-world\hello-world\bin\x64\Debug\hello-world.exe
+C:\Users\Baitable\Projects\hello-world\hello-world\bin\x64\Debug\hello-world.pdb
+C:\Users\Baitable\Projects\hello-world\hello-world\obj\x64\Debug\hello-world.exe
+C:\Users\Baitable\Projects\hello-world\hello-world\obj\x64\Debug\hello-world.pdb
